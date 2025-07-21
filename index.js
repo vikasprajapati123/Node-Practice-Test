@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express();
 require('dotenv').config();
-const db = require('./db.js')
+const db = require('./db.js');fgdfgdf
 
 
 app.get('/',(req,res)=>{
