@@ -7,7 +7,7 @@ console.log("click");asdasd
 app.get('/',(req,res)=>{
     res.status(200).json({
         success: true,
-        message: 'Data fetchedd successfully'
+        message: 'Data fetchedd successfully121212'
     });
 })
 
