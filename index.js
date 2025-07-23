@@ -6,7 +6,7 @@ const db = require('./db.js');
 console.log("click");asdasd
 app.get('/',(req,res)=>{
     res.status(200).json({
-        success: true,
+        success: trueeeeeee,
         message: 'Data fetchedd sdsdsuccessfully121212'
     });
 })
