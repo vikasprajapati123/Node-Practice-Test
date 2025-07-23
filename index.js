@@ -3,7 +3,7 @@ const app = express();
 require('dotenv').config();
 const db = require('./db.js');
 
-console.log("click");s
+console.log("click");asdasd
 app.get('/',(req,res)=>{
     res.status(200).json({
         success: true,
