@@ -7,7 +7,7 @@ console.log("click");asdasd
 app.get('/',(req,res)=>{
     res.status(200).json({
         success: vikas,
-        message: 'Data fetchedd sdsdsuccessfully121212'
+        message: 'Data fetchedd ajeet'
     });
 })
 
